@@ -1,0 +1,30 @@
+{
+  "short": [
+    {
+      "id": "category_1",
+      "title": { "ru": "Категория 1", "uk": "Категорія 1" },
+      "icon": "💬",
+      "file": "short/category_1.json"
+    },
+    {
+      "id": "category_2",
+      "title": { "ru": "Категория 2", "uk": "Категорія 2" },
+      "icon": "🎉",
+      "file": "short/category_2.json"
+    }
+  ],
+  "long": [
+    {
+      "id": "category_1",
+      "title": { "ru": "Категория 1", "uk": "Категорія 1" },
+      "icon": "📜",
+      "file": "long/category_1.json"
+    },
+    {
+      "id": "category_2",
+      "title": { "ru": "Категория 2", "uk": "Категорія 2" },
+      "icon": "💌",
+      "file": "long/category_2.json"
+    }
+  ]
+}
